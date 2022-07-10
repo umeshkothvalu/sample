@@ -1,2 +1,3 @@
 swift = 7L
+Tesla is 60L
 
