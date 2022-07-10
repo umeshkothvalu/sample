@@ -1,0 +1,1 @@
+Testing Stash... from staging area.
